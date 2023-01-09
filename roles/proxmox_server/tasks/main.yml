@@ -69,9 +69,7 @@
       - iptraf
       - mlocate
       - msr-tools
-      - nano
       - net-tools
-      - omping
       - software-properties-common
       - sshpass
       - tmux
