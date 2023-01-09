@@ -1,2 +1,2 @@
 ceph_pool: "tank"
-ceph_nodes: "nuc1,nuc2,nuc3"
+ceph_nodes: "pve1,pve3,pve4"
