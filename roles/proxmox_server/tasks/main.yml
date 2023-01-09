@@ -55,13 +55,13 @@
       - python3-pip
       - axel
       - build-essential
-      - dialogl
-      - dnsutilsl
-      - dos2unixl
-      - gitl
-      - gnupg-agentl
-      - grcl
-      - htopl
+      - dialog
+      - dnsutils
+      - dos2unix
+      - git
+      - gnupg-agent
+      - grc
+      - htop
       - iftop
       - iotop
       - iperf
