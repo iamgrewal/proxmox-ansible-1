@@ -52,7 +52,35 @@
   apt:
     name:
       - cloud-init
-      - python-pip
+      - python3-pip
+      - axel
+      - build-essential
+      - dialogl
+      - dnsutilsl
+      - dos2unixl
+      - gitl
+      - gnupg-agentl
+      - grcl
+      - htopl
+      - iftop
+      - iotop
+      - iperf
+      - ipset
+      - iptraf
+      - mlocate
+      - msr-tools
+      - nano
+      - net-tools
+      - omping
+      - software-properties-common
+      - sshpass
+      - tmux
+      - unzip
+      - vim
+      - vim-nox
+      - wget
+      - whois
+      - zip
     force_apt_get: "yes"
 
 - name: Install proxmoxer module
