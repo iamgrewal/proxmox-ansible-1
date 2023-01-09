@@ -5,6 +5,6 @@
   changed_when: false
 
 - name: Create ceph network
-  command: pveceph init --network 10.10.10.0/24
+  command: pveceph init --network 192.168.0.0/24
   when: pveceph_status.rc == 1
 
